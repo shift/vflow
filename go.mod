@@ -4,7 +4,7 @@ go 1.15
 
 require (
 	github.com/ClickHouse/clickhouse-go v1.5.4
-	github.com/Shopify/sarama v1.32.0
+	github.com/Shopify/sarama v1.33.0
 	github.com/bsm/sarama-cluster v2.1.15+incompatible
 	github.com/hashicorp/go-uuid v1.0.3 // indirect
 	github.com/klauspost/compress v1.15.1 // indirect
