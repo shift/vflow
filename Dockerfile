@@ -1,5 +1,5 @@
 # build vFlow in the first stage
-FROM golang:1.18.2 as builder
+FROM golang:1.18.3 as builder
 WORKDIR /go/src/
 
 RUN mkdir -p github.com/EdgeCast/vflow
