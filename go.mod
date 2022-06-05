@@ -15,7 +15,7 @@ require (
 	github.com/onsi/gomega v1.10.3 // indirect
 	github.com/prometheus/client_golang v1.12.2
 	github.com/prometheus/common v0.34.0 // indirect
-	github.com/segmentio/kafka-go v0.4.31
+	github.com/segmentio/kafka-go v0.4.32
 	golang.org/x/crypto v0.0.0-20220411220226-7b82a4e95df4 // indirect
 	golang.org/x/net v0.0.0-20220531201128-c960675eff93
 	google.golang.org/protobuf v1.28.0 // indirect
